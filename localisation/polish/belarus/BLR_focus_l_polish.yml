@@ -1,7 +1,7 @@
 ﻿l_polish:
  BLR_economic_revision:0 "Ekonomiczna rewizja"
  BLR_economic_revision_desc:0 "W związku z tym, że białoruska ekonomia stawia czoła wielu wyzwaniom, rząd zdecydował się, aby podjąć kompleksową ekonomiczną rewizję."
- BLR_economic_revision_tt:0 "Zmodyfikuj §YBiałoruska gospodarka§! by:\n - Współczynnik dóbr konsumpcyjnych: §Y-2%§! \n - Tempo budowy: §G+5%§! \n - Moc przerobowa fabryk: §G+5%§! \n - Wydajność produkcji: §G+2.5%§!"
+ BLR_economic_revision_tt:0 "Zmodyfikuj §YBiałoruska gospodarka§!:\n - Współczynnik dóbr konsumpcyjnych: §Y-2%§! \n - Tempo budowy: §G+5%§! \n - Moc przerobowa fabryk: §G+5%§! \n - Wydajność produkcji: §G+2.5%§!"
 
 
  BLR_consumer_industries_programe:0 "Program konsumpcji przemysłowej"
