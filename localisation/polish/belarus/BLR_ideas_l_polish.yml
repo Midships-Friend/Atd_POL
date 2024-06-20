@@ -38,7 +38,7 @@
  BLR_extensive_response:0 "Extensive Response"
 
  BLR_unpopular_war:0 "Niepopularna wojna"
- BLR_unpopular_war_desc:0 "Przyłączenie się [BLR.GetLeader] do tego co nazwano 'Specjalną Operacją Wojskową' nie jest popularnym ruchem wśród Białorusinów, ponieważ wielu z nich obawia się, że ich kraj jest następny na Kremlowskiej liście państw do likwidacji."
+ BLR_unpopular_war_desc:0 "Przyłączenie się [BLR.GetLeader] do tego co nazwano 'Specjalną Operacją Wojskową' nie jest popularnym ruchem wśród Białorusinów, ponieważ wielu z nich obawia się, że ich kraj jest następny na kremlowskiej liście państw do likwidacji."
 
 
  BLR_soc_army_reform:0 "Reformy armii"
