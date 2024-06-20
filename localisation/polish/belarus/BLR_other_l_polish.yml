@@ -49,12 +49,12 @@
  eea_mod:0 "Współpraca w ramach EUG"
  eea_rej_mod:0 "Odrzucona współpraca w ramach EUG"
  
- BLR_small_positive:0 "Mała poprawa relacji"
+ BLR_small_positive:0 "Niewielka poprawa relacji"
  BLR_medium_positive:0 "Średnia poprawa relacji"
- BLR_large_positive:0 "Duża poprawa relacji"
- BLR_small_negative:0 "Małe pogorszenie relacji"
+ BLR_large_positive:0 "Spora poprawa relacji"
+ BLR_small_negative:0 "Niewielkie pogorszenie relacji"
  BLR_medium_negative:0 "Średnie pogorszenie relacji"
- BLR_large_negative:0 "Duże pogorszenie relacji"
+ BLR_large_negative:0 "Spore pogorszenie relacji"
 
 
  #Generals
